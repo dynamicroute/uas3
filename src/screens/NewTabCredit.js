@@ -50,7 +50,6 @@ export default function NewTabCreditScreen({ navigation }) {
       </View>
       <View
         style={{
-          // height: "100%",
           width: "100%",
           alignItems: "flex-end",
           marginTop: 10,
@@ -71,10 +70,7 @@ export default function NewTabCreditScreen({ navigation }) {
       </View>
       <View
         style={{
-          // height: "100%",
           width: "100%",
-          // backgroundColor: "red",
-          // position: "absolute",
         }}
       >
         <Text
@@ -126,7 +122,6 @@ export default function NewTabCreditScreen({ navigation }) {
           flexDirection: "row",
           width: "100%",
           paddingVertical: 10,
-          // paddingHorizontal: 10,
           justifyContent: "space-between",
         }}
       >
@@ -134,7 +129,6 @@ export default function NewTabCreditScreen({ navigation }) {
           onPress={() => navigation.navigate("RenovasiKary")}
           style={{
             backgroundColor: "white",
-            // aspectRatio: 1,
             width: "48.5%",
             height: 120,
             borderColor: "#DCDDDF",
@@ -152,7 +146,6 @@ export default function NewTabCreditScreen({ navigation }) {
           onPress={() => navigation.navigate("MultigunaKary")}
           style={{
             backgroundColor: "white",
-            // aspectRatio: 1,
             width: "48.5%",
             height: 120,
             borderColor: "#DCDDDF",
@@ -178,7 +171,6 @@ export default function NewTabCreditScreen({ navigation }) {
           onPress={() => navigation.navigate("KaiPriorityNew")}
           style={{
             backgroundColor: "white",
-            // aspectRatio: 1,
             width: "48.5%",
             height: 120,
             borderColor: "#DCDDDF",
@@ -196,7 +188,6 @@ export default function NewTabCreditScreen({ navigation }) {
           onPress={() => navigation.navigate("KaiPriorityKaryNew")}
           style={{
             backgroundColor: "white",
-            // aspectRatio: 1,
             width: "48.5%",
             height: 120,
             borderColor: "#DCDDDF",
@@ -223,7 +214,6 @@ export default function NewTabCreditScreen({ navigation }) {
           onPress={() => navigation.navigate("Multiguna")}
           style={{
             backgroundColor: "white",
-            // aspectRatio: 1,
             width: "48.5%",
             height: 120,
             borderColor: "#DCDDDF",
@@ -240,7 +230,6 @@ export default function NewTabCreditScreen({ navigation }) {
           onPress={() => navigation.navigate("KaiPriority2X")}
           style={{
             backgroundColor: "white",
-            // aspectRatio: 1,
             width: "48.5%",
             height: 120,
             borderColor: "#DCDDDF",

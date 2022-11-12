@@ -11,7 +11,6 @@ export default function UserScreen({ navigation }) {
           backgroundColor: "#337E78",
           height: "100%",
           width: "100%",
-          // paddingHorizontal: 20,
         }}
       >
         <View

@@ -32,9 +32,6 @@ export default function CreditScreen({ navigation }) {
             height: 50,
           }}
         />
-        {/* <Text style={{ fontSize: 14, color: "white", fontWeight: "bold" }}>
-          Ajukan Kredit
-        </Text> */}
       </TouchableOpacity>
     </View>
   );

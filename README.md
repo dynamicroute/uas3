@@ -2,9 +2,13 @@
 
 Berikut merupakan penjabaran singkat terkait soal UAS WEB Application Development nomor 3
 
-## Screenshoot Project
+## Project Capture
 
 <img src="images/credit.PNG" width=200 > <img src="images/saldo.PNG" width=200 > <img src="images/renovasikary.PNG" width=200 >
+
+## Additional Project Capture
+
+<img src="images/home.PNG" width=200 > <img src="images/service.PNG" width=200 > <img src="images/user.PNG" width=200 >
 
 ## Requirements
 
