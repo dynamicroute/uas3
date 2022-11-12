@@ -2,6 +2,10 @@
 
 Berikut merupakan penjabaran singkat terkait soal UAS WEB Application Development nomor 3
 
+## Screenshoot Project
+
+<img src="images/credit.PNG" width=200 > <img src="images/saldo.PNG" width=200 > <img src="images/renovasikary.PNG" width=200 >
+
 ## Requirements
 
 - [React](https://beta.reactjs.org) - UI framework
@@ -11,7 +15,7 @@ Berikut merupakan penjabaran singkat terkait soal UAS WEB Application Developmen
 - [Yarn](https://classic.yarnpkg.com) - Dependency/Package manager
 - [NodeJs](https://nodejs.org/en/download/) - Dependency
 
-## Instalation
+## Installation
 
 - Clone these repository
 - run `npm install --global yarn`
